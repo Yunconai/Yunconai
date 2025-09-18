@@ -14,7 +14,7 @@
 
 ## 🔗 社交账号
 
-- B站：[Yunconai](https://space.bilibili.com/494011099)
+- B站：[云可奈](https://space.bilibili.com/494011099)
 - X (旧推特)：[@Yunconai](https://x.com/Yunconai)
 - Steam：[Yunconai](https://steamcommunity.com/id/Yunconai/)
 - Pixiv：[Yunconai](https://www.pixiv.net/users/116428919)
