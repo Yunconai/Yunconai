@@ -4,21 +4,6 @@
 
 ---
 
-## 💤 关于我
-
-一名普通的高中生，最大的本事可能就是——睡觉！  
-平时喜欢摸鱼、偶尔打打游戏、偶尔画点涂鸦。
-
----
-
-## 🌱 我的日常
-
-- 喜欢探索新鲜事物，但更喜欢睡觉摆烂
-- 是一个菜鸟，什么技术活都不会
-- 觉得开心最重要
-
----
-
 ## 🎨 兴趣爱好
 
 - 喜欢可爱的东西
@@ -33,8 +18,6 @@
 - X (旧推特)：[@Yunconai](https://x.com/Yunconai)
 - Steam：[Yunconai](https://steamcommunity.com/id/Yunconai/)
 - Pixiv：[Yunconai](https://www.pixiv.net/users/116428919)
-
-欢迎留言或者 Issues 找我玩~
 
 ---
 
